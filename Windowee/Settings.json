@@ -1,0 +1,12 @@
+﻿{
+  "Margin": "20%",
+  "Windows": [
+    {
+      "Name": "Notepad",
+      "X": 10,
+      "Y": 10,
+      "Width": 100,
+      "Height": 100
+    }
+  ]
+}
